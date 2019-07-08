@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  3 14:51:12 2019
 
-@author: M06272
-"""
 #omport package
 import time #時間模組
 import random #隨機數模組
